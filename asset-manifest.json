@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.aec50b03.js",
-    "static/js/787.cdcdca4b.chunk.js": "/react-gh-pages/static/js/787.cdcdca4b.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-gh-pages/static/css/main.9606b81f.css",
+    "main.js": "/react-gh-pages/static/js/main.665e356d.js",
+    "static/media/Holberton_logo.jpg": "/react-gh-pages/static/media/Holberton_logo.24bab5d633e36ca8d17e.jpg",
     "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.aec50b03.js.map": "/react-gh-pages/static/js/main.aec50b03.js.map",
-    "787.cdcdca4b.chunk.js.map": "/react-gh-pages/static/js/787.cdcdca4b.chunk.js.map"
+    "main.9606b81f.css.map": "/react-gh-pages/static/css/main.9606b81f.css.map",
+    "main.665e356d.js.map": "/react-gh-pages/static/js/main.665e356d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.aec50b03.js"
+    "static/css/main.9606b81f.css",
+    "static/js/main.665e356d.js"
   ]
 }
